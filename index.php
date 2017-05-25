@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
             echo "Hola Mundo PHP xD";
             echo '<BR>';
-            echo '<BR>';//asdasdasdasdasd
+            echo '<BR>';
             //MySQL esta descontinuada -----------------------------------------
             /*$con = mysql_connect("localhost:3306","root","admin");
             if ($con) {
